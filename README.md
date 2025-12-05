@@ -1,7 +1,8 @@
 # 🐍 Gray's Python Learning Record: Data Analysis Projects
 
 这里是Gray的 Python 数据分析学习实战记录。
-当前的Gray是一个Python小白,当我对Python有着浓厚的兴趣~于是,我从零开始，通过模拟真实的商业与环境场景，学习使用 Python (Pandas/Matplotlib) 进行数据清洗、分析与可视化。
+当前的Gray是一个Python小白,当我对Python有着浓厚的兴趣~
+所以,我从零开始，通过模拟真实的商业与环境场景，学习使用 Python (Pandas/Matplotlib) 进行数据清洗、分析与可视化。并把它们记录下来
 
 ## 📂 项目作品集 (Portfolio)
 
