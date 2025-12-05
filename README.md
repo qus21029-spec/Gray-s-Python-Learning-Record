@@ -1,7 +1,7 @@
-# 🐍 Gray's Python Learning Record📝: Data Analysis Projects
+# 🐍 Gray's Python Learning Record: Data Analysis Projects
 
-这是Gray的 Python 数据分析学习实战记录。
-我通过模拟真实的商业场景，使用 Python (Pandas/Matplotlib) 进行数据清洗、分析与可视化。
+这是我的 Python 数据分析学习实战记录。
+我从零开始，通过模拟真实的商业与环境场景，学习使用 Python (Pandas/Matplotlib) 进行数据清洗、分析与可视化。
 
 ## 📂 项目作品集 (Portfolio)
 
@@ -26,4 +26,4 @@
   - 📃 [点击查看：分析代码](02_Air_Quality/analysis_air.py)
 
 ---
-*Created by [Gray.Liu] - 2025.12.5
+*Created by [你的名字] - 2025*
