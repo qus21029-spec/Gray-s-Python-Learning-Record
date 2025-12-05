@@ -1,9 +1,6 @@
-# Gray-s-Python-Learning-Record
-Gray的Python学习与实战记录📝
+# 🐍 Gray's Python Learning Record📝: Data Analysis Projects
 
-# 🐍 Python Learning Path: Data Analysis Projects
-
-这是我的 Python 数据分析学习实战记录。
+这是Gray的 Python 数据分析学习实战记录。
 我通过模拟真实的商业场景，使用 Python (Pandas/Matplotlib) 进行数据清洗、分析与可视化。
 
 ## 📂 项目作品集 (Portfolio)
